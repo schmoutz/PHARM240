@@ -1,8 +1,15 @@
 # PHARM 240 - Behavioral Pharmacology
-Slides and lecture notes for PHARM 240 - Behavioral Pharmacology
 
-Lecture 01 - Preclinical Modeling, Animal Models, and Biomarkers (slides, notes)
+2018 PHARM 240 syllabus - pdf
 
-Lecture 05 - Affiliative and Social Behaviors (slides, notes)
+Lecture 1 (date) - Preclinical modeling, animal models, and biomarkers  
+slides (preview, ppt, pdf)  
+lecture notes (pdf, docx)
 
-Lecture 13 - Models of Learning and Memory (slides, notes)
+Lecture 5 (date) - Affiliative and social behaviors  
+slides (preview, ppt, pdf)  
+lecture notes (pdf, docx)
+
+Lecture 13 (date) - Animal models of learning and memory  
+slides (preview, ppt, pdf)  
+lecture notes (pdf, docx)
